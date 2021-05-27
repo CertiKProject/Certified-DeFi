@@ -1,0 +1,14 @@
+DIGEST 43e342865336d27a66a6c8311138e4e7
+Famm.DataTypes
+R185:190 Coq.PArith.BinPos <> <> lib
+R208:223 DeepSpec.Runtime <> <> lib
+R241:256 amm.EdsgerIdents <> <> lib
+sec 268:276 <> EdsgerGen
+def 292:307 <> HASH_address_Z32
+R313:324 DeepSpec.cclib.Maps Int256Tree t def
+R326:328 DeepSpec.core.HyperTypeInst <> Z32 syndef
+def 344:372 <> HASH_address_HASH_address_Z32
+R378:389 DeepSpec.cclib.Maps Int256Tree t def
+R392:403 DeepSpec.cclib.Maps Int256Tree t def
+R405:407 DeepSpec.core.HyperTypeInst <> Z32 syndef
+R417:425 amm.DataTypes EdsgerGen <> sec

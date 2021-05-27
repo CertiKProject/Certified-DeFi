@@ -1,0 +1,100 @@
+DIGEST 7808dca7b238b1d91f5c96da01abbacc
+Famm.EdsgerIdents
+R188:193 Coq.PArith.BinPos <> <> lib
+R233:243 DeepSpec.backend.AST <> <> lib
+def 274:304 <> ident_AutomatedMarketMaker_burn
+R308:312 DeepSpec.backend.AST <> ident def
+def 343:380 <> ident_AutomatedMarketMaker_constructor
+R384:388 DeepSpec.backend.AST <> ident def
+def 419:457 <> ident_AutomatedMarketMaker_getAmountIn0
+R461:465 DeepSpec.backend.AST <> ident def
+def 496:535 <> ident_AutomatedMarketMaker_getAmountOut0
+R539:543 DeepSpec.backend.AST <> ident def
+def 574:601 <> ident_AutomatedMarketMaker_k
+R605:609 DeepSpec.backend.AST <> ident def
+def 640:670 <> ident_AutomatedMarketMaker_mint
+R674:678 DeepSpec.backend.AST <> ident def
+def 709:741 <> ident_AutomatedMarketMaker_quote0
+R745:749 DeepSpec.backend.AST <> ident def
+def 780:817 <> ident_AutomatedMarketMaker_simpleSwap0
+R821:825 DeepSpec.backend.AST <> ident def
+def 856:886 <> ident_AutomatedMarketMaker_skim
+R890:894 DeepSpec.backend.AST <> ident def
+def 925:955 <> ident_AutomatedMarketMaker_sync
+R959:963 DeepSpec.backend.AST <> ident def
+def 994:1024 <> ident_FixedSupplyToken1_approve
+R1028:1032 DeepSpec.backend.AST <> ident def
+def 1063:1095 <> ident_FixedSupplyToken1_balanceOf
+R1099:1103 DeepSpec.backend.AST <> ident def
+def 1134:1168 <> ident_FixedSupplyToken1_constructor
+R1172:1176 DeepSpec.backend.AST <> ident def
+def 1207:1241 <> ident_FixedSupplyToken1_totalSupply
+R1245:1249 DeepSpec.backend.AST <> ident def
+def 1280:1311 <> ident_FixedSupplyToken1_transfer
+R1315:1319 DeepSpec.backend.AST <> ident def
+def 1350:1385 <> ident_FixedSupplyToken1_transferFrom
+R1389:1393 DeepSpec.backend.AST <> ident def
+def 1424:1453 <> ident_FixedSupplyToken_approve
+R1457:1461 DeepSpec.backend.AST <> ident def
+def 1492:1523 <> ident_FixedSupplyToken_balanceOf
+R1527:1531 DeepSpec.backend.AST <> ident def
+def 1562:1595 <> ident_FixedSupplyToken_constructor
+R1599:1603 DeepSpec.backend.AST <> ident def
+def 1634:1667 <> ident_FixedSupplyToken_totalSupply
+R1671:1675 DeepSpec.backend.AST <> ident def
+def 1706:1736 <> ident_FixedSupplyToken_transfer
+R1740:1744 DeepSpec.backend.AST <> ident def
+def 1775:1809 <> ident_FixedSupplyToken_transferFrom
+R1813:1817 DeepSpec.backend.AST <> ident def
+def 1848:1875 <> ident_LiquidityToken_approve
+R1879:1883 DeepSpec.backend.AST <> ident def
+def 1914:1943 <> ident_LiquidityToken_balanceOf
+R1947:1951 DeepSpec.backend.AST <> ident def
+def 1982:2006 <> ident_LiquidityToken_burn
+R2010:2014 DeepSpec.backend.AST <> ident def
+def 2045:2076 <> ident_LiquidityToken_constructor
+R2080:2084 DeepSpec.backend.AST <> ident def
+def 2115:2139 <> ident_LiquidityToken_mint
+R2143:2147 DeepSpec.backend.AST <> ident def
+def 2178:2209 <> ident_LiquidityToken_totalSupply
+R2213:2217 DeepSpec.backend.AST <> ident def
+def 2248:2276 <> ident_LiquidityToken_transfer
+R2280:2284 DeepSpec.backend.AST <> ident def
+def 2315:2347 <> ident_LiquidityToken_transferFrom
+R2351:2355 DeepSpec.backend.AST <> ident def
+def 2386:2443 <> var_AutomatedMarketMaker_AutomatedMarketMaker__owner_ident
+R2447:2451 DeepSpec.backend.AST <> ident def
+def 2482:2542 <> var_AutomatedMarketMaker_AutomatedMarketMaker__reserve0_ident
+R2546:2550 DeepSpec.backend.AST <> ident def
+def 2581:2641 <> var_AutomatedMarketMaker_AutomatedMarketMaker__reserve1_ident
+R2645:2649 DeepSpec.backend.AST <> ident def
+def 2680:2738 <> var_AutomatedMarketMaker_AutomatedMarketMaker__token0_ident
+R2742:2746 DeepSpec.backend.AST <> ident def
+def 2777:2835 <> var_AutomatedMarketMaker_AutomatedMarketMaker__token1_ident
+R2839:2843 DeepSpec.backend.AST <> ident def
+def 2874:2943 <> var_AutomatedMarketMaker_AutomatedMarketMaker_blockTimestampLast_ident
+R2947:2951 DeepSpec.backend.AST <> ident def
+def 2982:3038 <> var_AutomatedMarketMaker_AutomatedMarketMaker_kLast_ident
+R3042:3046 DeepSpec.backend.AST <> ident def
+def 3077:3148 <> var_AutomatedMarketMaker_AutomatedMarketMaker_price0CumulativeLast_ident
+R3152:3156 DeepSpec.backend.AST <> ident def
+def 3187:3258 <> var_AutomatedMarketMaker_AutomatedMarketMaker_price1CumulativeLast_ident
+R3262:3266 DeepSpec.backend.AST <> ident def
+def 3297:3354 <> var_FixedSupplyToken1_FixedSupplyToken1__totalSupply_ident
+R3358:3362 DeepSpec.backend.AST <> ident def
+def 3393:3448 <> var_FixedSupplyToken1_FixedSupplyToken1_allowances_ident
+R3452:3456 DeepSpec.backend.AST <> ident def
+def 3487:3540 <> var_FixedSupplyToken1_FixedSupplyToken1_balances_ident
+R3544:3548 DeepSpec.backend.AST <> ident def
+def 3579:3634 <> var_FixedSupplyToken_FixedSupplyToken__totalSupply_ident
+R3638:3642 DeepSpec.backend.AST <> ident def
+def 3673:3726 <> var_FixedSupplyToken_FixedSupplyToken_allowances_ident
+R3730:3734 DeepSpec.backend.AST <> ident def
+def 3765:3816 <> var_FixedSupplyToken_FixedSupplyToken_balances_ident
+R3820:3824 DeepSpec.backend.AST <> ident def
+def 3855:3906 <> var_LiquidityToken_LiquidityToken__totalSupply_ident
+R3910:3914 DeepSpec.backend.AST <> ident def
+def 3945:3994 <> var_LiquidityToken_LiquidityToken_allowances_ident
+R3998:4002 DeepSpec.backend.AST <> ident def
+def 4033:4080 <> var_LiquidityToken_LiquidityToken_balances_ident
+R4084:4088 DeepSpec.backend.AST <> ident def

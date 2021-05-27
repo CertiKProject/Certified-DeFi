@@ -1,0 +1,9 @@
+DIGEST 0373b9a783f373263595beac3014a765
+Famm.DataTypeProofs
+R51:56 Coq.PArith.BinPos <> <> lib
+R74:89 DeepSpec.Runtime <> <> lib
+R107:122 amm.EdsgerIdents <> <> lib
+R140:152 amm.DataTypes <> <> lib
+R170:184 amm.DataTypeOps <> <> lib
+sec 196:204 <> EdsgerGen
+R213:221 amm.DataTypeProofs EdsgerGen <> sec
